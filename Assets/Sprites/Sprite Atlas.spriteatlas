@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bc48d2d3d33aa99418ee4e80af99be3b, type: 3}
+    - {fileID: 102900000, guid: 7076978067af97b429b15396ae6f0997, type: 3}
+    - {fileID: 102900000, guid: 7bfcc868c833fba4b9d69047cf78143d, type: 3}
+    - {fileID: 102900000, guid: 106cbaea1c10a7e4da65fbc15624c354, type: 3}
+    - {fileID: 102900000, guid: 1b69bb666a5d1df41b9f0956ad97d096, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f699cc1017bbff64283543bdfe3ea223, type: 3}
+  - {fileID: 21300000, guid: e5f2e1209fe68004b9ec4f286482e2be, type: 3}
+  - {fileID: 21300000, guid: 2937f011fbf869741b3399fe8666d99a, type: 3}
+  - {fileID: 21300000, guid: fb81cee12280f304eb0858d1a0da7ead, type: 3}
+  - {fileID: 21300000, guid: 33bd0832b50dcb34781c9b8911efe175, type: 3}
+  - {fileID: 21300000, guid: 97cf91924e8c8524fb101e432c4190f9, type: 3}
+  - {fileID: 21300000, guid: 1de07ce2e928397479793b64dded66d3, type: 3}
+  - {fileID: 21300000, guid: 57dba103682c91540a57bddf0280e598, type: 3}
+  - {fileID: 21300000, guid: b6adfb8368e11e948bd71eae04f96769, type: 3}
+  - {fileID: 21300000, guid: 705edcd3592140142a7fe1264d35cea6, type: 3}
+  - {fileID: 21300000, guid: b86d75e6be9e5614ba134a9c91ada29d, type: 3}
+  - {fileID: 21300000, guid: a241011761db60a439d96bb3357cee2b, type: 3}
+  - {fileID: 21300000, guid: e297810966918ab47b5a098292881bb6, type: 3}
+  - {fileID: 21300000, guid: 6f9ef37a197084643af2223ebb260221, type: 3}
+  - {fileID: 21300000, guid: 8d2e777ad6aa521449e2dfaca19644a9, type: 3}
+  - {fileID: 21300000, guid: 4638807b29abb984383473b6708dce0d, type: 3}
+  - {fileID: 21300000, guid: 76ec8dfb80e365e46b37108ed73e8d95, type: 3}
+  - {fileID: 21300000, guid: df89272d230d2a349b7f6c18193eb2ee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fox_Dead
+  - Fox_Down
+  - Fox_Left
+  - Chick_Right
+  - Chick_Left
+  - Chick_Down
+  - Exit
+  - Box
+  - Fox_Up
+  - BoxC100a_02
+  - Chick_Up
+  - Box100
+  - Fox_Right
+  - Circle100a_full
+  - Sector01a
+  - ButtonTemplate
+  - Status_Angry
+  - Chick_Dead
+  m_RenderDataMap: {}
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0
